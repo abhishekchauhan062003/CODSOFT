@@ -1,22 +1,19 @@
-Data set taken for Genre Classification Model have following format
-
-
-Train data:
-ID ::: TITLE ::: GENRE ::: DESCRIPTION
-ID ::: TITLE ::: GENRE ::: DESCRIPTION
-ID ::: TITLE ::: GENRE ::: DESCRIPTION
-ID ::: TITLE ::: GENRE ::: DESCRIPTION
-
-Test data:
-ID ::: TITLE ::: DESCRIPTION
-ID ::: TITLE ::: DESCRIPTION
-ID ::: TITLE ::: DESCRIPTION
-ID ::: TITLE ::: DESCRIPTION
-
+The data set taken for the Genre Classification Model has the following format
 
 kaggle source for data:
 https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 
 
-Source:
-ftp://ftp.fu-berlin.de/pub/misc/movies/database/
+
+Dataset for Credit card fraud detection
+
+kaggle:
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
+
+
+
+Dataset for Customer Churn Detection
+
+kaggel:
+https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction/data
